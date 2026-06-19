@@ -1,139 +1,135 @@
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0099ff,50:00c6ff,100:0072ff&text=Shubham%20Yadav&fontAlign=50&fontAlignY=38&fontSize=60&desc=CSE(AI%20%26%20ML)%20@%20NIET%20'27%20|%20MERN%20Developer%20|%20DSA%20Enthusiast&descAlignY=62"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:00B4DB,100:0083B0&text=Shubham%20Yadav&fontSize=55&fontColor=ffffff&animation=fadeIn&desc=CSE%20(AI%20%26%20ML)%20%40%20NIET%20%2727%20%7C%20MERN%20Developer%20%7C%20DSA%20Enthusiast&descAlignY=68&descSize=18"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=2500&color=00C6FF&center=true&vCenter=true&width=850&lines=Full+Stack+MERN+Developer;CSE+(AI+%26+ML)+Student+at+NIET;TCS+Selected;Solving+LeetCode+Problems+Daily;Building+Real+World+Projects"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00B4DB&center=true&vCenter=true&width=900&lines=Full+Stack+MERN+Developer;CSE+(AI+%26+ML)+Student+at+NIET;TCS+Selected;Daily+LeetCode+Problem+Solver;Building+Real+World+Projects"/>
 
-![](https://komarev.com/ghpvc/?username=Shubham2917&style=for-the-badge&color=blue)
+<br/>
 
-![TCS Selected](https://img.shields.io/badge/TCS-Selected-blue?style=for-the-badge)
+<img src="https://komarev.com/ghpvc/?username=Shubham2917&label=Profile+Views&color=0083B0&style=for-the-badge"/>
+&nbsp;
+<img src="https://img.shields.io/badge/TCS-Selected-0083B0?style=for-the-badge&logo=tata-consultancy-services&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/NIET-CSE%20(AI%20%26%20ML)-00B4DB?style=for-the-badge"/>
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
-🎓 B.Tech CSE (AI & ML) Student at NIET, Greater Noida
+🎓 B.Tech CSE (AI & ML) at **NIET, Greater Noida** — Batch of 2027
 
-💻 Passionate about:
+💡 Passionate about building scalable web apps and solving real-world problems
+
+🚀 Currently focusing on:
 - Full Stack MERN Development
-- Data Structures & Algorithms
-- Web Development
-- Open Source Contribution
-
-🌱 Currently Learning:
-- Advanced MERN Stack
-- Backend Development
-- System Design
-- DSA for Placements
+- Data Structures & Algorithms in C++
+- Backend Architecture & REST APIs
+- Open Source Contributions
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
-
-<a href="https://www.linkedin.com/in/sbm-ydv-2917-bonjour/">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:shu940229@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="https://leetcode.com/u/shu940229/">
-<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
-</a>
-
+  <a href="https://www.linkedin.com/in/sbm-ydv-2917-bonjour/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="mailto:shu940229@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://leetcode.com/u/shu940229/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
 </p>
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
 | Project | Description |
-|----------|------------|
-| 🌾 SmartBhoomi | Blockchain-based Agriculture Supply Chain Platform |
-| 🎌 Anime Tracker Extension | Browser Extension for Tracking Anime Airing Schedules |
-| 🎓 NIET Grade Guru | GPA & Academic Performance Calculator |
-| 🍔 SmartSwiggy | Smart Slot Food Delivery Platform |
+|---------|-------------|
+| 🌾 **SmartBhoomi** | Blockchain-based Agriculture Supply Chain Platform |
+| 🎌 **Anime Tracker Extension** | Browser Extension for Tracking Anime Airing Schedules |
+| 🎓 **NIET Grade Guru** | GPA & Academic Performance Calculator |
+| 🍔 **SmartSwiggy** | Smart Slot Food Delivery Platform |
 
 ---
 
-# 🛠 Tech Stack
+## 🛠 Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=cpp,python,javascript,html,css,react,nodejs,express,mongodb,mysql,git,github,vscode,vite,bootstrap,tailwind"/>
-
+  <img src="https://skillicons.dev/icons?i=cpp,python,javascript,html,css,react,nodejs,express,mongodb,mysql,git,github,vscode,vite,bootstrap,tailwind"/>
 </p>
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Shubham2917&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Shubham2917&theme=tokyonight"/>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Shubham2917&show_icons=true&theme=tokyonight&hide_border=true"/>
+  &nbsp;
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Shubham2917&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham2917&layout=compact&theme=tokyonight"/>
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham2917&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-# 🧠 LeetCode Stats
+## 🏆 GitHub Trophies
 
 <p align="center">
-
-<img src="https://leetcard.jacoblin.cool/shu940229?theme=dark&font=baloo"/>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=Shubham2917&theme=algolia&no-frame=true&column=6&margin-w=10"/>
 </p>
 
 ---
 
-# 📈 Contribution Graph
+## 🧠 LeetCode Stats
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shubham2917&theme=github-compact"/>
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/shu940229?theme=dark&font=baloo&ext=heatmap"/>
+</p>
 
 ---
 
-# 🏆 Achievements
+## 📈 Contribution Graph
 
-- ✅ TCS Selected
-- ✅ Prodigy InfoTech Full Stack Internship
-- ✅ Deloitte Data Analytics Job Simulation
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shubham2917&theme=react-dark&hide_border=true&area=true"/>
+</p>
+
+---
+
+## 🏅 Achievements
+
+- ✅ **TCS Selected**
+- ✅ **Prodigy InfoTech** — Full Stack Internship
+- ✅ **Deloitte** — Data Analytics Job Simulation
 - ✅ Open Source Contributor
 - ✅ Daily LeetCode Problem Solver
 
 ---
 
-# 📚 Currently Learning
+## 📚 Currently Learning
 
-- MERN Stack
-- Backend Development
-- REST APIs
-- System Design
-- Advanced DSA
+- Advanced MERN Stack
+- Backend Architecture & REST APIs
+- System Design Fundamentals
+- Advanced DSA for Product Companies
 
 ---
 
-# ⚡ Fun Fact
+## ⚡ Fun Fact
 
-> Always learning and adapting to new technologies.
+> *"Always learning and adapting to new technologies."*
 
 ---
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=120&section=footer"/>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0083B0,100:00B4DB&height=120&section=footer"/>
 </div>
