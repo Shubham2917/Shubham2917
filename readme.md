@@ -1,14 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:005F8A,50:0083B0,100:00B4DB&text=Shubham%20Yadav&fontSize=55&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:005F8A,50:0083B0,100:00B4DB&text=Shubham%20Yadav&fontSize=55&fontColor=ffffff&animation=fadeIn&desc=CSE%20AI%20ML%20%40%20NIET%2027%20%7C%20MERN%20Developer%20%7C%20DSA%20Enthusiast&descSize=16&descAlignY=72&descColor=ffffff"/>
 
 <br/>
 
-### 🎓 CSE (AI & ML) @ NIET '27 &nbsp;|&nbsp; 💻 MERN Developer &nbsp;|&nbsp; 🧠 DSA Enthusiast
-
-<br/>
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=0083B0&center=true&vCenter=true&width=750&lines=Full+Stack+MERN+Developer;CSE+Student+at+NIET+Greater+Noida;TCS+Selected+%F0%9F%8E%89;Daily+LeetCode+Problem+Solver;Building+Real+World+Projects)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00B4DB&center=true&vCenter=true&width=750&lines=Full+Stack+MERN+Developer;CSE+Student+at+NIET+Greater+Noida;TCS+Selected;Daily+LeetCode+Problem+Solver;Building+Real+World+Projects;Open+Source+Contributor)
 
 <br/>
 
@@ -153,5 +149,5 @@ Currently focusing on:
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4DB,100:005F8A&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4DB,100:005F8A&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff&animation=fadeIn"/>
 </div>
