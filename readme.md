@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:00B4DB,100:0083B0&text=Shubham%20Yadav&fontSize=55&fontColor=ffffff&animation=fadeIn&desc=CSE%20(AI%20%26%20ML)%20%40%20NIET%20%2727%20%7C%20MERN%20Developer%20%7C%20DSA%20Enthusiast&descAlignY=68&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:00B4DB,50:0083B0,100:005F8A&text=Shubham%20Yadav&fontAlign=50&fontAlignY=38&fontSize=60&fontColor=ffffff&desc=CSE%20(AI%20%26%20ML)%20%40%20NIET%20%2727%20%7C%20MERN%20Developer%20%7C%20DSA%20Enthusiast&descAlignY=62&descSize=18&descColor=ffffff"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00B4DB&center=true&vCenter=true&width=900&lines=Full+Stack+MERN+Developer;CSE+(AI+%26+ML)+Student+at+NIET;TCS+Selected;Daily+LeetCode+Problem+Solver;Building+Real+World+Projects"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=00B4DB&center=true&vCenter=true&width=800&lines=Full+Stack+MERN+Developer;CSE+(AI+%26+ML)+%40+NIET+Greater+Noida;TCS+Selected+%F0%9F%8E%89;Daily+LeetCode+Problem+Solver;Building+Real+World+Projects"/>
 
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=Shubham2917&label=Profile+Views&color=0083B0&style=for-the-badge"/>
 &nbsp;
-<img src="https://img.shields.io/badge/TCS-Selected-0083B0?style=for-the-badge&logo=tata-consultancy-services&logoColor=white"/>
+<img src="https://img.shields.io/badge/TCS-Selected-00B4DB?style=for-the-badge&logoColor=white"/>
 &nbsp;
-<img src="https://img.shields.io/badge/NIET-CSE%20(AI%20%26%20ML)-00B4DB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NIET-CSE%20AI%20%26%20ML-0083B0?style=for-the-badge"/>
 
 </div>
 
@@ -18,14 +18,14 @@
 
 ## 👨‍💻 About Me
 
-🎓 B.Tech CSE (AI & ML) at **NIET, Greater Noida** — Batch of 2027
+🎓 B.Tech in **Computer Science & Engineering (AI & ML)** at NIET, Greater Noida — **Batch 2027**
 
-💡 Passionate about building scalable web apps and solving real-world problems
+💡 I enjoy building **scalable web applications** and solving real-world problems through technology.
 
-🚀 Currently focusing on:
+Currently focusing on:
 - Full Stack MERN Development
 - Data Structures & Algorithms in C++
-- Backend Architecture & REST APIs
+- Backend Development & REST APIs
 - Open Source Contributions
 
 ---
@@ -55,7 +55,7 @@
 | 🌾 **SmartBhoomi** | Blockchain-based Agriculture Supply Chain Platform |
 | 🎌 **Anime Tracker Extension** | Browser Extension for Tracking Anime Airing Schedules |
 | 🎓 **NIET Grade Guru** | GPA & Academic Performance Calculator |
-| 🍔 **SmartSwiggy** | Smart Slot Food Delivery Platform |
+| 🍔 **SmartSwiggy** | Smart Slot-Based Food Delivery Platform |
 
 ---
 
@@ -105,6 +105,14 @@
 
 ---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Shubham2917/Shubham2917/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
 ## 🏅 Achievements
 
 - ✅ **TCS Selected**
@@ -131,5 +139,5 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0083B0,100:00B4DB&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:005F8A,100:00B4DB&height=120&section=footer"/>
 </div>
