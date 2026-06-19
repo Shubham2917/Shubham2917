@@ -102,7 +102,7 @@ Currently focusing on:
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shubham2917&theme=algolia&no-frame=true&column=6&margin-w=10"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Shubham2917&theme=discord&no-frame=true&column=6&margin-w=10&margin-h=10"/>
 </p>
 
 ---
@@ -110,7 +110,9 @@ Currently focusing on:
 ## 🧠 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/shu940229?theme=dark&font=baloo&ext=heatmap"/>
+  <a href="https://leetcode.com/u/shu940229/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/shu940229?theme=dark&font=baloo&ext=heatmap"/>
+  </a>
 </p>
 
 ---
