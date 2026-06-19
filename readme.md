@@ -1,6 +1,8 @@
 <div align="center">
 
-# 👋 Hi, I'm Shubham Yadav
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:005F8A,50:0083B0,100:00B4DB&text=Shubham%20Yadav&fontSize=55&fontColor=ffffff&animation=fadeIn"/>
+
+<br/>
 
 ### 🎓 CSE (AI & ML) @ NIET '27 &nbsp;|&nbsp; 💻 MERN Developer &nbsp;|&nbsp; 🧠 DSA Enthusiast
 
@@ -147,3 +149,9 @@ Currently focusing on:
 ## ⚡ Fun Fact
 
 > *"Always learning and adapting to new technologies."*
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4DB,100:005F8A&height=120&section=footer"/>
+</div>
