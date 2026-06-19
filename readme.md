@@ -1,10 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:00B4DB,50:0083B0,100:005F8A&text=Shubham%20Yadav&fontAlign=50&fontAlignY=38&fontSize=60&fontColor=ffffff&desc=CSE%20(AI%20%26%20ML)%20%40%20NIET%20%2727%20%7C%20MERN%20Developer%20%7C%20DSA%20Enthusiast&descAlignY=62&descSize=18&descColor=ffffff"/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=00B4DB&center=true&vCenter=true&width=800&lines=Full+Stack+MERN+Developer;CSE+(AI+%26+ML)+%40+NIET+Greater+Noida;TCS+Selected+%F0%9F%8E%89;Daily+LeetCode+Problem+Solver;Building+Real+World+Projects"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=0,2,2,5,30&text=Shubham%20Yadav&fontSize=55&fontColor=ffffff&animation=fadeIn&desc=CSE%20AI%20%26%20ML%20%40%20NIET%2027%20%7C%20MERN%20Developer%20%7C%20DSA%20Enthusiast&descSize=18&descAlignY=68"/>
 
 <br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00B4DB&center=true&vCenter=true&width=800&lines=Full+Stack+MERN+Developer;CSE+AI+%26+ML+%40+NIET+Greater+Noida;TCS+Selected;Daily+LeetCode+Problem+Solver;Building+Real+World+Projects"/>
+
+<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=Shubham2917&label=Profile+Views&color=0083B0&style=for-the-badge"/>
 &nbsp;
@@ -62,7 +64,7 @@ Currently focusing on:
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,javascript,html,css,react,nodejs,express,mongodb,mysql,git,github,vscode,vite,bootstrap,tailwind"/>
+  <img src="https://skillicons.dev/icons?i=cpp,python,javascript,html,css,react,nodejs,express,mongodb,mysql,git,github,vscode,vite,bootstrap,tailwind&perline=9"/>
 </p>
 
 ---
@@ -70,9 +72,9 @@ Currently focusing on:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Shubham2917&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Shubham2917&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
   &nbsp;
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Shubham2917&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://streak-stats.demolab.com?user=Shubham2917&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
@@ -108,7 +110,11 @@ Currently focusing on:
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Shubham2917/Shubham2917/output/github-contribution-grid-snake.svg"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shubham2917/Shubham2917/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shubham2917/Shubham2917/output/github-contribution-grid-snake.svg"/>
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Shubham2917/Shubham2917/output/github-contribution-grid-snake.svg"/>
+  </picture>
 </p>
 
 ---
@@ -139,5 +145,5 @@ Currently focusing on:
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:005F8A,100:00B4DB&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer"/>
 </div>
