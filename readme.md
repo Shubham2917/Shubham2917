@@ -1,16 +1,20 @@
 <div align="center">
 
-# Shubham Yadav
+# 👋 Hi, I'm Shubham Yadav
 
-### CSE (AI & ML) @ NIET '27 | MERN Developer | DSA Enthusiast
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0083B0&center=true&vCenter=true&width=800&lines=Full+Stack+MERN+Developer;CSE+Student+at+NIET+Greater+Noida;TCS+Selected;Daily+LeetCode+Problem+Solver;Building+Real+World+Projects)
+### 🎓 CSE (AI & ML) @ NIET '27 &nbsp;|&nbsp; 💻 MERN Developer &nbsp;|&nbsp; 🧠 DSA Enthusiast
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Shubham2917&label=Profile+Views&color=0083B0&style=for-the-badge)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=0083B0&center=true&vCenter=true&width=750&lines=Full+Stack+MERN+Developer;CSE+Student+at+NIET+Greater+Noida;TCS+Selected+%F0%9F%8E%89;Daily+LeetCode+Problem+Solver;Building+Real+World+Projects)
+
+<br/>
+
 ![TCS](https://img.shields.io/badge/TCS-Selected-0083B0?style=for-the-badge)
+&nbsp;
 ![NIET](https://img.shields.io/badge/NIET-CSE_AI_ML-00B4DB?style=for-the-badge)
+&nbsp;
+![Batch](https://img.shields.io/badge/Batch-2027-005F8A?style=for-the-badge)
 
 </div>
 
@@ -77,7 +81,7 @@ Currently focusing on:
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </p>
 
@@ -86,7 +90,7 @@ Currently focusing on:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Shubham2917&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Shubham2917&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
   &nbsp;
   <img height="170" src="https://streak-stats.demolab.com?user=Shubham2917&theme=tokyonight&hide_border=true"/>
 </p>
@@ -143,5 +147,3 @@ Currently focusing on:
 ## ⚡ Fun Fact
 
 > *"Always learning and adapting to new technologies."*
-
-</div>
