@@ -99,12 +99,12 @@ Currently focusing on:
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shubham2917&theme=discord&no-frame=true&column=6&margin-w=10&margin-h=10"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Shubham2917&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"/>
 </p>
-
+ 
 ---
 
 ## 🧠 LeetCode Stats
