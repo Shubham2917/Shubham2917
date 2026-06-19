@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=0,2,2,5,30&text=Shubham%20Yadav&fontSize=55&fontColor=ffffff&animation=fadeIn&desc=CSE%20AI%20%26%20ML%20%40%20NIET%2027%20%7C%20MERN%20Developer%20%7C%20DSA%20Enthusiast&descSize=18&descAlignY=68"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:00B4DB,50:0083B0,100:005F8A&text=Shubham%20Yadav&fontSize=55&fontColor=ffffff&animation=fadeIn&desc=CSE%20AI%20%26%20ML%20%40%20NIET%2027%20%7C%20MERN%20Developer%20%7C%20DSA%20Enthusiast&descSize=18&descAlignY=68"/>
 
 <br/>
 
@@ -10,9 +10,9 @@
 
 <img src="https://komarev.com/ghpvc/?username=Shubham2917&label=Profile+Views&color=0083B0&style=for-the-badge"/>
 &nbsp;
-<img src="https://img.shields.io/badge/TCS-Selected-00B4DB?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/TCS-Selected-00B4DB?style=for-the-badge"/>
 &nbsp;
-<img src="https://img.shields.io/badge/NIET-CSE%20AI%20%26%20ML-0083B0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NIET-CSE%20AI%20ML-0083B0?style=for-the-badge"/>
 
 </div>
 
@@ -20,14 +20,14 @@
 
 ## 👨‍💻 About Me
 
-🎓 B.Tech in **Computer Science & Engineering (AI & ML)** at NIET, Greater Noida — **Batch 2027**
+🎓 B.Tech in **Computer Science Engineering (AI and ML)** at NIET, Greater Noida — **Batch 2027**
 
 💡 I enjoy building **scalable web applications** and solving real-world problems through technology.
 
 Currently focusing on:
 - Full Stack MERN Development
-- Data Structures & Algorithms in C++
-- Backend Development & REST APIs
+- Data Structures and Algorithms in C++
+- Backend Development and REST APIs
 - Open Source Contributions
 
 ---
@@ -56,7 +56,7 @@ Currently focusing on:
 |---------|-------------|
 | 🌾 **SmartBhoomi** | Blockchain-based Agriculture Supply Chain Platform |
 | 🎌 **Anime Tracker Extension** | Browser Extension for Tracking Anime Airing Schedules |
-| 🎓 **NIET Grade Guru** | GPA & Academic Performance Calculator |
+| 🎓 **NIET Grade Guru** | GPA and Academic Performance Calculator |
 | 🍔 **SmartSwiggy** | Smart Slot-Based Food Delivery Platform |
 
 ---
@@ -107,18 +107,6 @@ Currently focusing on:
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shubham2917/Shubham2917/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shubham2917/Shubham2917/output/github-contribution-grid-snake.svg"/>
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Shubham2917/Shubham2917/output/github-contribution-grid-snake.svg"/>
-  </picture>
-</p>
-
----
-
 ## 🏅 Achievements
 
 - ✅ **TCS Selected**
@@ -132,7 +120,7 @@ Currently focusing on:
 ## 📚 Currently Learning
 
 - Advanced MERN Stack
-- Backend Architecture & REST APIs
+- Backend Architecture and REST APIs
 - System Design Fundamentals
 - Advanced DSA for Product Companies
 
@@ -145,5 +133,5 @@ Currently focusing on:
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:005F8A,100:00B4DB&height=120&section=footer"/>
 </div>
