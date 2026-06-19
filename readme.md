@@ -35,17 +35,23 @@ Currently focusing on:
 ## 🌐 Connect With Me
 
 <p align="center">
+
   <a href="https://www.linkedin.com/in/sbm-ydv-2917-bonjour/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5"/>
   </a>
-  &nbsp;
-  <a href="mailto:shu940229@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  &nbsp;&nbsp;
+  <a href="mailto:shubhamy2917@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335"/>
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://leetcode.com/u/shu940229/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=FFA116"/>
   </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Shubham2917">
+    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white&labelColor=181717"/>
+  </a>
+
 </p>
 
 ---
