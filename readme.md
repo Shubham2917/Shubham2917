@@ -1,10 +1,13 @@
+```md
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:4facfe,50:00f2fe,100:43e97b&text=Shubham%20Yadav&fontAlign=50&fontAlignY=38&fontSize=60&desc=CSE(AI%20&%20ML)%20Student%20|%20Full%20Stack%20Developer%20|%20DSA%20Enthusiast&descAlignY=62"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0099ff,50:00c6ff,100:0072ff&text=Shubham%20Yadav&fontAlign=50&fontAlignY=38&fontSize=60&desc=CSE(AI%20%26%20ML)%20@%20NIET%20'27%20|%20MERN%20Developer%20|%20DSA%20Enthusiast&descAlignY=62"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&duration=3000&color=00F2FE&center=true&vCenter=true&width=800&lines=CSE+(AI+%26+ML)+Student+at+NIET;Full+Stack+Web+Developer;Machine+Learning+Enthusiast;Solving+DSA+Problems+in+C%2B%2B;Building+Projects+and+Learning+Daily"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=2500&color=00C6FF&center=true&vCenter=true&width=850&lines=Full+Stack+MERN+Developer;CSE+(AI+%26+ML)+Student+at+NIET;TCS+Selected;Solving+LeetCode+Problems+Daily;Building+Real+World+Projects"/>
 
-<img src="https://komarev.com/ghpvc/?username=Shubham2917&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+![](https://komarev.com/ghpvc/?username=Shubham2917&style=for-the-badge&color=blue)
+
+![TCS Selected](https://img.shields.io/badge/TCS-Selected-blue?style=for-the-badge)
 
 </div>
 
@@ -12,26 +15,19 @@
 
 # 👨‍💻 About Me
 
-🎓 B.Tech – **Computer Science & Engineering (Artificial Intelligence & Machine Learning)**
+🎓 B.Tech CSE (AI & ML) Student at NIET, Greater Noida
 
-🏫 **Noida Institute of Engineering & Technology (NIET), Greater Noida**
-
-📅 **Batch: 2027**
-
-💡 Passionate about:
-
-- Artificial Intelligence & Machine Learning
-- Full Stack Web Development
+💻 Passionate about:
+- Full Stack MERN Development
 - Data Structures & Algorithms
-- Problem Solving
-- Open Source Learning
+- Web Development
+- Open Source Contribution
 
 🌱 Currently Learning:
-
-- MERN Stack
-- Deep Learning
+- Advanced MERN Stack
+- Backend Development
 - System Design
-- Advanced DSA
+- DSA for Placements
 
 ---
 
@@ -39,7 +35,7 @@
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/shubham-yadav-a5379a296">
+<a href="https://www.linkedin.com/in/sbm-ydv-2917-bonjour/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
@@ -47,8 +43,8 @@
 <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
 </a>
 
-<a href="https://github.com/Shubham2917">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+<a href="https://leetcode.com/u/shu940229/">
+<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
 </a>
 
 </p>
@@ -59,40 +55,20 @@
 
 | Project | Description |
 |----------|------------|
-| 🎓 NIET Grade Guru | GPA & Academic Performance Calculator |
-| 🎬 Movie Recommendation System | ML-based Movie Recommendation using TMDB API |
-| 🎟️ Token Booking System | DBMS-based Online Token Booking Platform |
 | 🌾 SmartBhoomi | Blockchain-based Agriculture Supply Chain Platform |
-| 🍔 SmartSwiggy | Smart Slot Food Delivery Web Application |
+| 🎌 Anime Tracker Extension | Browser Extension for Tracking Anime Airing Schedules |
+| 🎓 NIET Grade Guru | GPA & Academic Performance Calculator |
+| 🍔 SmartSwiggy | Smart Slot Food Delivery Platform |
 
 ---
 
 # 🛠 Tech Stack
 
-### Languages
+<p align="center">
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=cpp,python,javascript,java,html,css"/>
+<img src="https://skillicons.dev/icons?i=cpp,python,javascript,html,css,react,nodejs,express,mongodb,mysql,git,github,vscode,vite,bootstrap,tailwind"/>
 
 </p>
-
-### Frameworks & Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mysql,git,github,vscode,vite"/>
-
-</p>
-
-### AI / ML Libraries
-
-- NumPy
-- Pandas
-- Matplotlib
-- Scikit-Learn
-- Streamlit
-- TensorFlow
 
 ---
 
@@ -114,44 +90,51 @@
 
 ---
 
-# 📈 Contribution Activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shubham2917&theme=tokyo-night"/>
-
----
-
-# 🏆 GitHub Trophies
+# 🧠 LeetCode Stats
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Shubham2917&theme=tokyonight&row=1&column=7"/>
+<img src="https://leetcard.jacoblin.cool/shu940229?theme=dark&font=baloo"/>
 
 </p>
 
 ---
 
-# 📚 Currently Working On
+# 📈 Contribution Graph
 
-✔ LeetCode Daily Problems
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shubham2917&theme=github-compact"/>
 
-✔ MERN Stack Development
+---
 
-✔ Machine Learning Projects
+# 🏆 Achievements
 
-✔ Placement Preparation
+- ✅ TCS Selected
+- ✅ Prodigy InfoTech Full Stack Internship
+- ✅ Deloitte Data Analytics Job Simulation
+- ✅ Open Source Contributor
+- ✅ Daily LeetCode Problem Solver
 
-✔ Open Source Contributions
+---
+
+# 📚 Currently Learning
+
+- MERN Stack
+- Backend Development
+- REST APIs
+- System Design
+- Advanced DSA
 
 ---
 
 # ⚡ Fun Fact
 
-> "Always learning and adapting to new technologies."
+> Always learning and adapting to new technologies.
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:43e97b,100:4facfe&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=120&section=footer"/>
 
 </div>
+```
