@@ -1,4 +1,4 @@
-```md
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0099ff,50:00c6ff,100:0072ff&text=Shubham%20Yadav&fontAlign=50&fontAlignY=38&fontSize=60&desc=CSE(AI%20%26%20ML)%20@%20NIET%20'27%20|%20MERN%20Developer%20|%20DSA%20Enthusiast&descAlignY=62"/>
@@ -137,4 +137,3 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=120&section=footer"/>
 
 </div>
-```
