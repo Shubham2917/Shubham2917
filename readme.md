@@ -147,7 +147,6 @@ Currently focusing on:
 
 - ✅ **TCS Selected**
 - ✅ **Prodigy InfoTech** — Full Stack Internship
-- ✅ **Deloitte** — Data Analytics Job Simulation
 - ✅ Open Source Contributor
 - ✅ Daily LeetCode Problem Solver
 
